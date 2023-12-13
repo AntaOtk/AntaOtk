@@ -1,4 +1,4 @@
-# Hallo, I'm Anna Otkeeva
+# Hello, I'm Anna Otkeeva
 
 I'm Android developer. I finished stady in Yandex.Practicum
 

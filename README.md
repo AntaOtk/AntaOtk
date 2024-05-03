@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=AntaOtk)
 
 
-I finished stady in Yandex.Practicum. I’m currently learning to use compose, drag and drop and costomView
+I finished stady in Yandex.Practicum. I’m currently learning to use compose and costomView
 
 
 ### My languages:

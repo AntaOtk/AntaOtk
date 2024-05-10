@@ -12,13 +12,9 @@ I finished stady in Yandex.Practicum. I’m currently learning to use compose an
 
  
 ### My stack tehnology:
- - Android
- - Git
- - RxJava
- - Retrofit2
- - Koin
- - SQLite
- - Room
+ - Clean Architecture, SOLID
+ - MVVM, MVI, MVP, Android SDK, REST API, Retrofit, SQLite, Room, Koin, Dagger, Coroutines, Kotlin Flow, Jetpack Compose, Jetpack Navigation Component, Git, Detect, Gradle, CI/CD
+- Instruments: Android Studio, IntelliJ IDEA, GitHub, Figma
    
 ### Connect with me 👇
   
